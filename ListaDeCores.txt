@@ -1,0 +1,4 @@
+1 - Azul
+2 - Preto
+3 - Amarelo
+4 - Branco
