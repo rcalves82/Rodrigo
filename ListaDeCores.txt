@@ -4,3 +4,4 @@
 4 - Branco
 5 - Laranja
 6 - Vermelho
+7 - Cinza
