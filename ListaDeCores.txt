@@ -2,3 +2,5 @@
 2 - Preto
 3 - Amarelo
 4 - Branco
+5 - Laranja
+6 - Vermelho
